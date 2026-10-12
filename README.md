@@ -1,37 +1,50 @@
-<!-- Profile README for https://github.com/crownalonedev -->
 <div align="center">
-  <img src="./assets/hero.svg" alt="alone — Computer Science student and software developer" width="100%" />
+  <img src="assets/hero.svg" width="100%" alt="alone — making things matter. Software, systems, and design-minded engineering." />
 </div>
 
-<br />
+<br>
 
-### A little about me
+<img src="assets/about.svg" width="100%" alt="01 — A little context" />
 
-I'm a computer science student who enjoys making useful things, learning how systems work, and turning ideas into software. My interests range from **full-stack applications** to **Java development**, **native tooling**, and **AI-powered products**.
+I'm **alone** — a computer science student interested in the craft behind great software. I build across the stack, from thoughtful user interfaces to backend systems and native tools. I like the details people notice *and* the ones they never see.
 
-- Building thoughtful, practical software.
-- Exploring **Java · TypeScript · React · Python · C++**.
-- Learning something new with every project.
+> My north star: make it useful, make it understandable, then make it beautiful.
 
-### Selected work
+<br>
 
-| Project | What it is | Focus |
-| :-- | :-- | :-- |
-| **Acadence** | A student productivity platform | React · TypeScript · AI |
-| **Squads** | A Minecraft HCF server ecosystem | Java · Backend |
-| **Vanta** | An anticheat development project | Java · Systems |
-| **aloneclient** | Native client and loader experimentation | C++ · Desktop |
+<img src="assets/work.svg" width="100%" alt="02 — Selected work" />
 
-<sub>Projects listed here are works in progress and may not all have public repositories yet.</sub>
+<table>
+  <tr>
+    <td width="50%"><img src="assets/project-01.svg" alt="Acadence — Student productivity platform" width="100%" /></td>
+    <td width="50%"><img src="assets/project-02.svg" alt="Squads — Minecraft network engineering" width="100%" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/project-03.svg" alt="Vanta — Anticheat research" width="100%" /></td>
+    <td width="50%"><a href="https://github.com/crownalonedev/aloneclient"><img src="assets/project-04.svg" alt="aloneclient — C++ native tooling" width="100%" /></a></td>
+  </tr>
+</table>
 
-### My toolkit
+<sub>Explorations and works in progress. Some projects are not yet publicly available.</sub>
 
-`Java` &nbsp; `TypeScript` &nbsp; `React` &nbsp; `Python` &nbsp; `C++` &nbsp; `Git`
+<br><br>
 
-### Find me
+<img src="assets/toolkit.svg" width="100%" alt="03 — The toolkit" />
 
-[GitHub](https://github.com/crownalonedev) · [Repositories](https://github.com/crownalonedev?tab=repositories)
+**Languages** &nbsp; Java · TypeScript · JavaScript · C++ · Python
 
----
+**Building with** &nbsp; React · Spring Boot · Git · SQL · Linux
 
-<div align="center"><sub>Thoughtfully built. Deliberately simple.</sub></div>
+**Interested in** &nbsp; Systems engineering · Developer tools · Product design · AI applications
+
+<br>
+
+<img src="assets/elsewhere.svg" width="100%" alt="04 — Elsewhere" />
+
+[**GitHub ↗**](https://github.com/crownalonedev) &nbsp;&nbsp; · &nbsp;&nbsp; [**Browse repositories ↗**](https://github.com/crownalonedev?tab=repositories) &nbsp;&nbsp; · &nbsp;&nbsp; [**SquadsSite ↗**](https://github.com/crownalonedev/SquadsSite)
+
+<br>
+
+<div align="center">
+  <img src="assets/signoff.svg" width="100%" alt="Craft over noise. Built with intention." />
+</div>
