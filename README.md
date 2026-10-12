@@ -6,7 +6,7 @@
 
 <img src="assets/about.svg" width="100%" alt="01 — A little context" />
 
-I'm **alone** — a computer science student interested in the craft behind great software. I build across the stack, from thoughtful user interfaces to backend systems and native tools. I like the details people notice *and* the ones they never see.
+I'm **alone** - a computer science student interested in the craft behind great software. I build across the stack, from thoughtful user interfaces to backend systems and native tools. I like the details people notice *and* the ones they never see.
 
 > My north star: make it useful, make it understandable, then make it beautiful.
 
